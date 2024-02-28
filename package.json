@@ -1,0 +1,14 @@
+{
+  "name": "list-storage",
+  "version": "1.0.0",
+  "description": "lists storage buckets metadata from GCS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Scott",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0"
+  }
+}
